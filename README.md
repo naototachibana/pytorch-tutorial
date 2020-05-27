@@ -36,6 +36,13 @@ pyenv local 3.8.0
 
 # Make a virtual environment and install necessary packages
 poetry init
+
+# Add necessary packages manually and install them
+poetry add torch
+poetry add numpy
+poetry add pandas
+poetry add matplotlib
+poetry add jupyterlab
 poetry install
 ```
 
