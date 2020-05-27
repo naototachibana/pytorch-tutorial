@@ -36,6 +36,7 @@ pyenv local 3.8.0
 
 # Make a virtual environment and install necessary packages
 poetry init
+poetry install
 ```
 
 
