@@ -1,6 +1,6 @@
 # pytorch-tutorial
 
-1. Pytorch Environment Building with Pyenv + Poetry
+## 1. Pytorch Environment Building with Pyenv + Poetry
 
 - Install pyenv
 ```
